@@ -1,0 +1,16 @@
+app_name    = "wqb"
+environment = "dev"
+owner       = "Platform-Team"
+region      = "eu-west-1"
+tags = {
+  Application       = "ims"
+  Environment       = "dev"
+  Owner             = "Naveen K"
+  Owner_Email       = "devopswork1906@gmail.com"
+  snassignmentgroup = "am_gi_technical"
+  SNResolver        = "AM GI Technical"
+  region            = "us-east-2"
+  ManagedBy         = "terraform"
+  GithubRepo        = "terraform-aws-autoscaling"
+  GithubOrg         = "terraform-aws-modules"
+}
